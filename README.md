@@ -8,3 +8,6 @@ TDS(Team Developer Space)는 지금 아래의 프로젝트를 공식적으로 �
 * [PUBG BOT(디스코드봇)](http://www.yonghyeon.com/PUBG_BOT/invite.html)
 * Administrator (개발중)
 * Project DK(참여&개발중)
+
+## 참여
+당신도 자유롭게 개발해보고 싶으신가요? [이메일](mailto:support@yhs.kr)를 통해 신청해서 자신만의 프로그램을 서로 공유하고 의견을 주고받으며, 세상에 널리 알려보세요!
